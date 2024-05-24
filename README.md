@@ -1,4 +1,5 @@
-# CS202_Fall2021_PSU
+# SmartCitySystem_OOP_Application
+
 Assignment #1
 
 Background:
