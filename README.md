@@ -1,7 +1,5 @@
 # SmartCitySystem_OOP_Application
 
-Assignment #1
-
 Background:
 
 When beginning with this project, the first thing to keep in mind is that we are no longer working
